@@ -1,0 +1,13 @@
+
+22.12.24, 04:20:37 - ERROR: Download of “https://ashfall.studio”, referred from “/Users/matthew/Websites/ash/ashfall.studio/index.html”, failed with error code -1003 (A server with the specified hostname could not be found.)
+22.12.24, 04:20:38 - ERROR: Download of “https://ashfall.studio/work”, referred from “/Users/matthew/Websites/ash/ashfall.studio/work/index.html”, failed with error code -1003 (A server with the specified hostname could not be found.)
+22.12.24, 04:20:38 - ERROR: Download of “https://ashfall.studio/work/pebble”, referred from “/Users/matthew/Websites/ash/ashfall.studio/work/pebble/index.html”, failed with error code -1003 (A server with the specified hostname could not be found.)
+22.12.24, 04:20:38 - ERROR: Download of “https://ashfall.studio/lab”, referred from “/Users/matthew/Websites/ash/ashfall.studio/lab/index.html”, failed with error code -1003 (A server with the specified hostname could not be found.)
+22.12.24, 04:20:38 - ERROR: Download of “https://ashfall.studio/work/fifth-row”, referred from “/Users/matthew/Websites/ash/ashfall.studio/work/fifth-row/index.html”, failed with error code -1003 (A server with the specified hostname could not be found.)
+22.12.24, 04:20:39 - ERROR: Download of “https://ashfall.studio/about”, referred from “/Users/matthew/Websites/ash/ashfall.studio/about/index.html”, failed with error code -1003 (A server with the specified hostname could not be found.)
+22.12.24, 04:20:39 - ERROR: Download of “https://ashfall.studio/work/hyperbim”, referred from “/Users/matthew/Websites/ash/ashfall.studio/work/hyperbim/index.html”, failed with error code -1003 (A server with the specified hostname could not be found.)
+22.12.24, 04:20:39 - ERROR: Download of “https://ashfall.studio/work/domingue”, referred from “/Users/matthew/Websites/ash/ashfall.studio/work/domingue/index.html”, failed with error code -1003 (A server with the specified hostname could not be found.)
+22.12.24, 04:20:39 - ERROR: Download of “https://ashfall.studio/work/mode-maison”, referred from “/Users/matthew/Websites/ash/ashfall.studio/work/mode-maison/index.html”, failed with error code -1003 (A server with the specified hostname could not be found.)
+22.12.24, 04:20:40 - ERROR: Download of “https://ashfall.studio/work/pebble-app”, referred from “/Users/matthew/Websites/ash/ashfall.studio/work/pebble-app/index.html”, failed with error code -1003 (A server with the specified hostname could not be found.)
+
+---------------------
